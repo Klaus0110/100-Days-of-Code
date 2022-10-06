@@ -1,4 +1,4 @@
-# Recursion [factorial of a number] - HackerRank
+# Recursion [factorial of a number]
 
 Today, we are learning about an algorithmic concept called recursion.
 

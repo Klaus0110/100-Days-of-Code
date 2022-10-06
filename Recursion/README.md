@@ -28,7 +28,7 @@ _ _ _ _
 
 Input
 ```bash
-  Enter any number : > 75
+  Enter any number : 75
 ```
 Output
 ```bash
@@ -40,7 +40,7 @@ Output
 
 _Input_
 ```zsh
-  Enter any number : > -1
+  Enter any number : -1
 ```
 
 _Output_

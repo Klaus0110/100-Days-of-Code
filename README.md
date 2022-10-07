@@ -1,2 +1,2 @@
 # Python
-Some of HackerRank Python Solution
+100 Days of Code Challenge in Python

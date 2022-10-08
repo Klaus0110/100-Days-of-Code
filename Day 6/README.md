@@ -6,10 +6,10 @@ Today, I learnt about the concept of Magic Number.
 Calculate the sum of digits of a number until the total digits in the number is 1. If the sum is equals to 1 the it is magic number
 
 ## Example
-If input is 1729 then,
-1+7+2+9 = 19,
-1+9 = 10,
-1+0 = 1,
+If input is 1729 then,<br>
+1+7+2+9 = 19,<br>
+1+9 = 10,<br>
+1+0 = 1,<br>
 Hence, Magic Number
   
 

@@ -8,18 +8,16 @@ A neon number is a number where the sum of digits of square of the number is equ
 ## Example
 
 Input : 9 <br>
-Output : Neon Number
-Explanation: square is 9*9 = 81 and 
-sum of the digits of the square is 9.
+Output : Neon Number <br>
+Explanation: square is 9*9 = 81 and sum of the digits of the square is 9 (8+1).<br>
 
 Input :12 <br>
-Output : Not a Neon Number
-Explanation: square is 12*12 = 144 and 
-sum of the digits of the square is 9 (1 + 4 + 4) which is not equal to 12.
+Output : Not a Neon Number <br>
+Explanation: square is 12*12 = 144 and sum of the digits of the square is 9 (1 + 4 + 4) which is not equal to 12.<br>
   
 
 ## Input Format
-  A single integer, num.
+  A single integer, number.
 
 ## Constraints
   * 0 < n < 10 <sup>3</sup>
@@ -35,7 +33,7 @@ Input
 ```
 Output
 ```bash
-  Neon Number
+  9 is a neon number.
 ```
 
 
@@ -49,5 +47,5 @@ _Input_
 _Output_
 
 ```bash
-  Not a Neon Number
+  15 is not a neon number.
 ```

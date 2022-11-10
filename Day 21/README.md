@@ -30,7 +30,7 @@ Enter the elements:
 2
 3
 4
-Enter the number of elements in array1: 3
+Enter the number of elements in array2: 3
 Enter the elements: 
 5
 6
@@ -51,7 +51,7 @@ Enter the elements:
 9
 3
 5
-Enter the number of elements in array1: 3
+Enter the number of elements in array2: 3
 Enter the elements: 
 1
 16

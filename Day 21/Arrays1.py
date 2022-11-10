@@ -20,7 +20,7 @@ if __name__ == '__main__':
     for i in range(0, n1):
         arr1.append(int(input()))
     arr2 = []
-    n2 = int(input("Enter the number of elements in array1: "))
+    n2 = int(input("Enter the number of elements in array2: "))
     print("Enter the elements: ")
     for i in range(0, n2):
         arr2.append(int(input()))

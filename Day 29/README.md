@@ -31,3 +31,10 @@ arr[] = {5, 1, 4, 2, 8}
 ( 1 2 4 5 8 ) –> ( 1 2 4 5 8 ) <br>
 
 ## Illustration
+![bubble-sort1](https://user-images.githubusercontent.com/114591698/202614529-5432a7c9-c7c9-4305-8392-212d3b39179a.png)
+
+
+
+
+
+

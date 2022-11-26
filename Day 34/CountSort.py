@@ -15,6 +15,6 @@ def countSort(arr):
  
  
 if __name__ == '__main__':
-    arr = "geeksforgeeks"
+    arr = "hellopython"
     ans = countSort(arr)
     print("Sorted character array is % s" % ("".join(ans)))

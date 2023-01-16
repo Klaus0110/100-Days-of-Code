@@ -1,7 +1,6 @@
 import math
 
 def multiply(mat, res):
- 
     N= len(mat)
     for i in range(0,N):
      
@@ -12,7 +11,6 @@ def multiply(mat, res):
                 res[i][j] += mat[i][k] * mat[k][j]
  
 def checkIdempotent(mat):
- 
     N= len(mat)
     res =[[0]*N for i in range(0,N)]
     multiply(mat, res)

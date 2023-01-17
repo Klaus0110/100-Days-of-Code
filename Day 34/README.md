@@ -21,7 +21,7 @@ Count:  0  2  4  4  5  6  6  7  7  7<br>
 ![5](https://user-images.githubusercontent.com/114591698/204099518-9e8176dd-b49c-419f-8e2f-ba781d93350e.jpg)
 * Rotate the array clockwise for one time.
 Index:  0 1 2 3 4 5 6 7 8 9 <br>
-Count: 0 0 2 4 4 5 6 6 7 7<br>
+Count: 0 0 2 4 4 5 6 6 7 7 <br>
 ![6](https://user-images.githubusercontent.com/114591698/204099537-b31081d2-cb2f-424b-9d1d-cc054a5d0ff9.jpg)
 * Output each object from the input sequence followed by increasing its count by 1.
 * Process the input data: {1, 4, 1, 2, 7, 5, 2}. The position of 1 is 0.

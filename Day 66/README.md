@@ -1,4 +1,4 @@
-# Strobogrammatic number
+# Strobogrammatic Number
 Strobogrammatic Number is a number whose numeral is rotationally symmetric so that it appears the same when rotated 180 degrees. In other words, Strobogrammatic Number appears the same right-side up and upside down.
 ```
 0 after 180° rotation : (0 → 0)

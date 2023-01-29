@@ -3,20 +3,20 @@
 A simple python project on desktop voice assistant (named "Buddy").
 
 ## Technologies used:
--Python as base language<br>
--SQLite for database<br>
--Tkinter for Graphical User Inteface<br>
--WolfRam Alpha API for extra features<br>
+* Python as base language
+* SQLite for database
+* Tkinter for Graphical User Inteface
+* WolfRam Alpha API for extra features
 
 ## Functionalities:
--Searching on Google<br>
--Searching on Wikipedia<br>
--Searching on Youtube<br>
--Sending Email<br>
--Finding route through Google Maps<br>
--Opening some Websites<br>
--Opening Softwares installed on system<br>
--Playing Music and Videos<br>
--Current TIme<br>
--Simple Calculations<br>
--Shutting Down the PC<br>
+* Searching on Google
+* Searching on Wikipedia
+* Searching on Youtube
+* Sending Email
+* Finding route through Google Maps
+* Opening some Websites
+* Opening Softwares installed on system
+* Playing Music and Videos
+* Current TIme
+* Simple Calculations
+* Shutting Down the PC

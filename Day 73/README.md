@@ -1,0 +1,2 @@
+# Merging two sorted linked list
+Auxiliary Given two sorted linked lists consisting of N and M nodes respectively. The task is to merge both of the lists (in place) and return the head of the merged list.

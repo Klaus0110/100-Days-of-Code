@@ -1,0 +1,2 @@
+# Stack Implementation
+Create a data structure twoStacks that represent two stacks. Implementation of twoStacks should use only one array, i.e., both stacks should use the same array for storing elements. 

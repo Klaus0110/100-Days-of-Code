@@ -1,0 +1,2 @@
+# Detect and Remove Loop in a Linked List
+Write a function detectAndRemoveLoop() that checks whether a given Linked List contains a loop and if the loop is present then remove the loop and return true. If the list doesn’t contain a loop then it returns false.
